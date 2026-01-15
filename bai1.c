@@ -1,7 +1,7 @@
 /******************************************************************************
- * Họ và tên: [ĐIỀN TÊN TẠI ĐÂY]
- * MSSV:      [ĐIỀN MSSV TẠI ĐÂY]
- * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
+ * Họ và tên: [Hà Văn THịnh ]
+ * MSSV:      [PS49131]
+ * Lớp:       [CS21301]
  *****************************************************************************/
 
  // BÀI 1: XÂY DỰNG CHƯƠNG TRÌNH CỘNG / TRỪ 2 SỐ 
@@ -12,8 +12,13 @@
 
 int main(){
     // Khai báo biến
-
-    // Nhập dữ liệu
+    int a, b; 
+    a = 5;
+    b = 5;
+    printf("tong la :%d \n", a + b);
+    printf("hieu la :%d \n",a - b);
+    return 0;
+       // Nhập dữ liệu
 
 
     // Xử lý, tính toán
